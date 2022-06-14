@@ -1,0 +1,2 @@
+btc-com==0.0.1
+hdwallet==2.1.1
